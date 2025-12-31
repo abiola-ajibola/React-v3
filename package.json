@@ -101,7 +101,6 @@
     "example": "example"
   },
   "dependencies": {
-    "axios": "^0.21.1",
     "jest-environment-jsdom": "^29.5.0"
   }
 }
